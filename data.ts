@@ -1,13 +1,13 @@
 export const data = [
   {
     name: '0',
-    uv: 4000,
+    uv: 10000,
     pv: 2400,
     amt: 2400,
   },
   {
     name: '1',
-    uv: 3000,
+    uv: 30000,
     pv: 1398,
     amt: 2210,
   },
@@ -19,8 +19,8 @@ export const data = [
   },
   {
     name: '3',
-    uv: 2780,
-    pv: 3908,
+    uv: 25080,
+    pv: 20008,
     amt: 2000,
   },
   {
@@ -31,7 +31,7 @@ export const data = [
   },
   {
     name: '5',
-    uv: 15000,
+    uv: 35000,
     pv: 3800,
     amt: 2500,
   },
