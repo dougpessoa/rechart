@@ -31,13 +31,13 @@ export const data = [
   },
   {
     name: '5',
-    uv: 2390,
+    uv: 15000,
     pv: 3800,
     amt: 2500,
   },
   {
     name: '6',
-    uv: 3490,
+    uv: 100,
     pv: 4300,
     amt: 2100,
   },
