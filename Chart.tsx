@@ -44,7 +44,7 @@ const Chart = () => {
         <XAxis dataKey="name" />
         <YAxis />
         <Tooltip />
-        <Legend />
+        <Legend align="left" />
         {data.areas.map((props) => {
           return props.type === 'line' ? (
             <Line
