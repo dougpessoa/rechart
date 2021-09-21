@@ -1,7 +1,11 @@
 import styled from 'styled-components';
 import { ChartDotType } from './ChartDot';
 
-export const Wrapper = styled.div``;
+export const Wrapper = styled.div`
+  .recharts-cartesian-axis-tick-line {
+    display: none;
+  }
+`;
 
 type ChartDotStyleType = Pick<ChartDotType, 'isActive'>;
 

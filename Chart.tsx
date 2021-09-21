@@ -42,7 +42,7 @@ const Chart = () => {
 
         <CartesianGrid height={1} strokeWidth={0.4} />
         <XAxis dataKey="name" />
-        <YAxis />
+        <YAxis axisLine={false} />
         <Tooltip />
         <Legend align="left" />
         {data.areas.map((props) => {
